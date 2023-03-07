@@ -1,16 +1,16 @@
 
-<h1 align="left" id="khan-title">🤝 Hello there! I'm Khangeldy Ilebayev</h1>
-<h3 align="left">I am a Frontend Developer from Almaty</h3>
+<h1 align="left" id="khan-title">🤝 Hello mate! Welcome to my profile. I'm Khangeldy Ilebayev</h1>
+<h3 align="left">Frontend Developer from KZ</h3>
 
 
 <a href="#khan-title">
   <img src="https://github-readme-stats.vercel.app/api?username=khangeldy&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Khangeldy Ilebayev" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Bank Servicing Bureau at National bank of KZ**
-- :seedling: &nbsp;I’m currently learning **Swift**
-- :speech_balloon: &nbsp;I like to talk about **Linux** and **Anime**
-- :mailbox: &nbsp; I am **introvert** :(. Soo don't send email to me
+- :office: &nbsp;I'm currently working at **Bereke Bank**
+- :seedling: &nbsp;I’m currently learning **design patterns**
+- :speech_balloon: &nbsp;I like to talk about **Social Problems**, **Politic in Kazahstan** **Anime**
+- :mailbox: &nbsp; You can reach me on Linkedin** 
 
 <br>
 
